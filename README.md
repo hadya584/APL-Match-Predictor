@@ -1,4 +1,4 @@
-# ⚽ APL Match Predictor
+# APL Match Predictor
 
 A machine learning model that predicts whether a team will win an APL soccer match, using a Random Forest classifier trained on two seasons of match results.
 
